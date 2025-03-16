@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("steganography")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb406d868e1074112ac7c9ac7e0a17a0e6cea8a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("steganography")]
 [assembly: System.Reflection.AssemblyTitleAttribute("steganography")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
